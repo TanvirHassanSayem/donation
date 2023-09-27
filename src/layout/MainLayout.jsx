@@ -1,8 +1,16 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
+
+
+
 import Navbar from '../components/Header/Navbar/Navbar';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+
+
+
+
+
 const MainLayout = () => {
     return (
         <div className='max-w-[1280px] mx-auto'>
@@ -18,6 +26,8 @@ draggable
 pauseOnHover
 theme="light"
 />
+ 
+
  
 <ToastContainer />  
             <Navbar></Navbar>
