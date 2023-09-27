@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/J7dVBx9/Health.png",
+      "category": "Health",
+      "title": "Clean water for children",
+      "category_bg_color": "rgba(0, 82, 255, 0.20)",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)",
+      "color": "#0052FF",
+      "description": "Health encompasses a holistic state of well-being, including physical, mental, and social dimensions. It's characterized by the absence of disease or illness and the presence of vitality and fitness. Good health allows individuals to enjoy life to the fullest, pursue their goals, and engage in meaningful activities. It involves a balanced diet, regular exercise, mental resilience, and strong social connections. Health is a dynamic process that requires conscious effort and regular check-ups. It's a precious asset that empowers us to thrive, fostering happiness and longevity. Prioritizing health is an investment in a fulfilling and vibrant life.",
+      "price": "290.00"
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/LZqGbCV/Education.png",
+      "category": "Education",
+      "title": "Good education",
+      "category_bg_color": "rgba(255, 68, 74, 0.20)",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)",
+      "color": "#FF444A",
+      "description": "Good education is a multifaceted journey that enriches lives by providing a comprehensive and dynamic learning experience. It equips individuals with knowledge, critical thinking abilities, and practical skills essential for personal and professional success. Beyond academics, it fosters creativity, adaptability, and a sense of social responsibility, nurturing well-rounded citizens. Good education transcends boundaries, promoting inclusivity and diversity, and inspires a lifelong thirst for knowledge. It cultivates curiosity, resilience, and a growth mindset, preparing students to navigate an ever-evolving world. Ultimately, it is a cornerstone of progress, fostering innovation, social cohesion, and the realization of individual aspirations.",
+      "price": "290.00"
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/Bc0SSj0/Clothing.png",
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "category_bg_color": "rgba(121, 194, 63, 0.20)",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "color": "#79C23F",
+      "description": "Clothing is more than just fabric; it's a means of self-expression and comfort. The world of fashion offers a canvas for personal style, allowing individuals to showcase their uniqueness and creativity. From casual wear to formal attire, clothing reflects cultural, social, and individual identities. Quality clothing not only enhances our appearance but also boosts confidence and self-esteem. It keeps us warm in winter, cool in summer, and stylish year-round. Moreover, the fashion industry constantly evolves, bringing forth new trends and sustainable practices. Clothing is a vital part of our lives, offering both functionality and a platform for artistic self-discovery.",
+      "price": "290.00"
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/KbJC8Cb/Food.png",
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "category_bg_color": "rgba(248, 113, 71, 0.20)",
+      "card_bg_color": "rgba(248, 113, 71, 0.15)",
+      "color": "#F87147",
+      "description": "Food is a universal language that transcends cultural boundaries, nourishing both body and soul. It's a flavorful journey through diverse culinary traditions, offering comfort and connection. Food not only sustains life but also brings people together, fostering relationships and celebrations. It's a source of pleasure, exploration, and creativity, allowing us to savor unique tastes, textures, and aromas. From street food stalls to gourmet restaurants, food reflects the rich tapestry of human history and innovation. It nourishes our bodies with essential nutrients and fuels our passion for cooking and sharing. Food is an art, science, and sustenance, celebrating life's abundance.",
+      "price": "19.99"
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/KbJC8Cb/Food.png",
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "category_bg_color": "rgba(248, 113, 71, 0.20)",
+      "card_bg_color": "rgba(248, 113, 71, 0.15)",
+      "color": "#F87147",
+      "description": "Food is a universal language that transcends cultural boundaries, nourishing both body and soul. It's a flavorful journey through diverse culinary traditions, offering comfort and connection. Food not only sustains life but also brings people together, fostering relationships and celebrations. It's a source of pleasure, exploration, and creativity, allowing us to savor unique tastes, textures, and aromas. From street food stalls to gourmet restaurants, food reflects the rich tapestry of human history and innovation. It nourishes our bodies with essential nutrients and fuels our passion for cooking and sharing. Food is an art, science, and sustenance, celebrating life's abundance.",
+      "price": "19.99"
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/Bc0SSj0/Clothing.png",
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "category_bg_color": "rgba(121, 194, 63, 0.20)",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "color": "#79C23F",
+      "description": "Clothing is more than just fabric; it's a means of self-expression and comfort. The world of fashion offers a canvas for personal style, allowing individuals to showcase their uniqueness and creativity. From casual wear to formal attire, clothing reflects cultural, social, and individual identities. Quality clothing not only enhances our appearance but also boosts confidence and self-esteem. It keeps us warm in winter, cool in summer, and stylish year-round. Moreover, the fashion industry constantly evolves, bringing forth new trends and sustainable practices. Clothing is a vital part of our lives, offering both functionality and a platform for artistic self-discovery.",
+      "price": "290.00"
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/LZqGbCV/Education.png",
+      "category": "Education",
+      "title": "Good education",
+      "category_bg_color": "rgba(255, 68, 74, 0.20)   ",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)    ",
+      "color": "#FF444A",
+      "description": "Good education is a multifaceted journey that enriches lives by providing a comprehensive and dynamic learning experience. It equips individuals with knowledge, critical thinking abilities, and practical skills essential for personal and professional success. Beyond academics, it fosters creativity, adaptability, and a sense of social responsibility, nurturing well-rounded citizens. Good education transcends boundaries, promoting inclusivity and diversity, and inspires a lifelong thirst for knowledge. It cultivates curiosity, resilience, and a growth mindset, preparing students to navigate an ever-evolving world. Ultimately, it is a cornerstone of progress, fostering innovation, social cohesion, and the realization of individual aspirations.",
+      "price": "290.00"
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/J7dVBx9/Health.png",
+      "category": "Health",
+      "title": "Clean water for children",
+      "category_bg_color": "rgba(0, 82, 255, 0.20)   ",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)    ",
+      "color": "#0052FF",
+      "description": "Health encompasses a holistic state of well-being, including physical, mental, and social dimensions. It's characterized by the absence of disease or illness and the presence of vitality and fitness. Good health allows individuals to enjoy life to the fullest, pursue their goals, and engage in meaningful activities. It involves a balanced diet, regular exercise, mental resilience, and strong social connections. Health is a dynamic process that requires conscious effort and regular check-ups. It's a precious asset that empowers us to thrive, fostering happiness and longevity. Prioritizing health is an investment in a fulfilling and vibrant life.",
+      "price": "290.00"
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/J7dVBx9/Health.png",
+      "category": "Health",
+      "title": "Clean water for children",
+      "category_bg_color": "rgba(0, 82, 255, 0.20)   ",
+      "card_bg_color": "rgba(0, 82, 255, 0.15)    ",
+      "color": "#0052FF",
+      "description": "Health encompasses a holistic state of well-being, including physical, mental, and social dimensions. It's characterized by the absence of disease or illness and the presence of vitality and fitness. Good health allows individuals to enjoy life to the fullest, pursue their goals, and engage in meaningful activities. It involves a balanced diet, regular exercise, mental resilience, and strong social connections. Health is a dynamic process that requires conscious effort and regular check-ups. It's a precious asset that empowers us to thrive, fostering happiness and longevity. Prioritizing health is an investment in a fulfilling and vibrant life.",
+      "price": "290.00"
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/LZqGbCV/Education.png",
+      "category": "Education",
+      "title": "Good education",
+      "category_bg_color": "rgba(255, 68, 74, 0.20)",
+      "card_bg_color": "rgba(255, 68, 74, 0.15)",
+      "color": "#FF444A",
+      "description": "Good education is a multifaceted journey that enriches lives by providing a comprehensive and dynamic learning experience. It equips individuals with knowledge, critical thinking abilities, and practical skills essential for personal and professional success. Beyond academics, it fosters creativity, adaptability, and a sense of social responsibility, nurturing well-rounded citizens. Good education transcends boundaries, promoting inclusivity and diversity, and inspires a lifelong thirst for knowledge. It cultivates curiosity, resilience, and a growth mindset, preparing students to navigate an ever-evolving world. Ultimately, it is a cornerstone of progress, fostering innovation, social cohesion, and the realization of individual aspirations.",
+      "price": "290.00"
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/Bc0SSj0/Clothing.png",
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "category_bg_color": "rgba(121, 194, 63, 0.20)",
+      "card_bg_color": "rgba(121, 194, 63, 0.15)",
+      "color": "#79C23F",
+      "description": "Clothing is more than just fabric; it's a means of self-expression and comfort. The world of fashion offers a canvas for personal style, allowing individuals to showcase their uniqueness and creativity. From casual wear to formal attire, clothing reflects cultural, social, and individual identities. Quality clothing not only enhances our appearance but also boosts confidence and self-esteem. It keeps us warm in winter, cool in summer, and stylish year-round. Moreover, the fashion industry constantly evolves, bringing forth new trends and sustainable practices. Clothing is a vital part of our lives, offering both functionality and a platform for artistic self-discovery.",
+      "price": "290.00"
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/KbJC8Cb/Food.png",
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "category_bg_color": "rgba(248, 113, 71, 0.20)",
+      "card_bg_color": "rgba(248, 113, 71, 0.15)",
+      "color": "#F87147",
+      "description": "Food is a universal language that transcends cultural boundaries, nourishing both body and soul. It's a flavorful journey through diverse culinary traditions, offering comfort and connection. Food not only sustains life but also brings people together, fostering relationships and celebrations. It's a source of pleasure, exploration, and creativity, allowing us to savor unique tastes, textures, and aromas. From street food stalls to gourmet restaurants, food reflects the rich tapestry of human history and innovation. It nourishes our bodies with essential nutrients and fuels our passion for cooking and sharing. Food is an art, science, and sustenance, celebrating life's abundance.",
+      "price": "19.99"
+    }
+  ]
