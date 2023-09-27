@@ -1,10 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { toast } from 'react-toastify';
-
-
 const DetailsCard = ({donation}) => {
-
     const { id,picture, category, title, category_bg_color, card_bg_color, color,description,price } = donation || {}
 
     const addDonation =()=>{
@@ -12,8 +9,7 @@ const DetailsCard = ({donation}) => {
       var addedDonationArray=[];
       if(items!= null){
           addedDonationArray=[...items];
-      } 
-       
+      }    
          addedDonationArray.push(donation)
         localStorage.setItem('donationItems',JSON.stringify(addedDonationArray))
         toast('Donation Added Successfully', {
